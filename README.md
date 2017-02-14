@@ -8,5 +8,4 @@
 4. 添加onScrollerListener 使用addScrollerListener()方法。
 5. 使用setOnLoadMoreListener(OnLoadMoreListener listener)设置监听。
 6. setLoadMoreEnable(true)开启监听，默认是不监听。
-
-其实就一个类。
+7. 实现简单
